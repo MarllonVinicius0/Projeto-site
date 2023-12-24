@@ -25,6 +25,9 @@ h2{
 img.lado{
     float: right;
 }
+img.centro{
+    float: none;
+}
 a{
     text-decoration: none;
     font-weight: bold;
