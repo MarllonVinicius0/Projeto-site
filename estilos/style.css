@@ -17,6 +17,7 @@ main{
 h1{
     font-size: 2em;
     color: rgb(50, 0, 112);
+    text-align: center;
 }
 h2{
     font-size: 1.5em;
